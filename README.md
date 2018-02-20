@@ -12,3 +12,5 @@ basic lines of arithmatic using order of operations.
 [Video](https://youtu.be/wXlXEuidoyI) of the binary keypad
 
 [Video](https://youtu.be/z0CRZwpQI6k) of the binary keypad working
+
+[Video](https://youtu.be/wXlXEuidoyI) of the working calculator
