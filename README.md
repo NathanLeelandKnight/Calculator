@@ -5,5 +5,4 @@ This code is for a calculator that I built using an Arduino
 and a homemade binary keyboard. The calculator is capable of computing
 basic lines of arithmatic using order of operations.
 
-Video of the keyboard
-[a link](https://youtu.be/wXlXEuidoyI)
+[Video](https://youtu.be/wXlXEuidoyI) of the keypad
