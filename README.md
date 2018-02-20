@@ -6,3 +6,4 @@ and a homemade binary keyboard. The calculator is capable of computing
 basic lines of arithmatic using order of operations.
 
 [Video](https://youtu.be/wXlXEuidoyI) of the keypad
+[Video](https://youtu.be/z0CRZwpQI6k) of the keypad working
